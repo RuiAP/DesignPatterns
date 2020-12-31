@@ -1,0 +1,9 @@
+*.class
+*.log
+*.jar
+target/
+dist/
+.idea/
+TEST*.xml
+.DS_Store
+Thumbs.db
